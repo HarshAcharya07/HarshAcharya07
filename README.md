@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://giphy.com/embed/C3DJ5zE2l2VUc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/terminator-C3DJ5zE2l2VUc)
+![](https://giphy.com/gifs/terminator-C3DJ5zE2l2VUc)
 <!--
 **HarshAcharya07/HarshAcharya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
